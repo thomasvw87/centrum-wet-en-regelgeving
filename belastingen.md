@@ -10,7 +10,7 @@ De belasting wordt geschaald geïnd. Dit betekent dat hoe meer voertuigen je heb
 | :-------------: | :------------: |
 |        4        |     € 280,-    |
 |        8        |    € 1460,-    |
-|        10       |    € 2260,-    |
+|        10       |    € 2260,-    | 
 |        20       |    € 7630,-    |
 |        30       |   € 14.810,-   |
 |        40       |   € 23.420,-   |
